@@ -4,7 +4,7 @@
 WordPress e-Commerce payment module for Paychoice. 
 These files are to be copied into the WordPress e-Commerce directory structure.
 
-WordPress e-Commerce can be found at http://getshopped.org/
+WordPress e-Commerce can be found at http://getshopped.org/  
 Latest API documentation can be found at http://www.paychoice.com.au/docs/api/v3/
 
 #What is Paychoice
